@@ -1,7 +1,9 @@
+import Main from "./Main";
+
 function App() {
   return (
     <div className="App">
-      <h1>Stano</h1>
+      <Main />
     </div>
   );
 }
